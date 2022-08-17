@@ -22,16 +22,20 @@ You can use any library available (i.e. state management libraries). Choice and 
 You can choose to implement the design given or change it to something more of your liking. Attention to detail and usability concerns are appreciated.
 
 First Screen with no facts:
-<kbd><img src="https://img.techpowerup.org/201103/macbook-pro-5.png" /></kbd>
+
+![image](https://user-images.githubusercontent.com/9078815/185175114-9f9df9c7-0501-4150-ae43-06618fcfa7ed.png)
 
 Screen with 1 fact generated:
-<kbd><img src="https://img.techpowerup.org/201104/macbook-pro-2.png" /></kbd>
+![image](https://user-images.githubusercontent.com/9078815/185175195-d276bc04-0e8c-48ec-80f1-1f2d67c7c013.png)
+
 
 Screen with 2 facts generated:
-<kbd><img src="https://img.techpowerup.org/201104/macbook-pro-3.png" /></kbd>
+![image](https://user-images.githubusercontent.com/9078815/185175235-afc7946d-a574-4df8-9ce6-d72c0e583488.png)
+
 
 Change between facts:
-<kbd><img src="https://img.techpowerup.org/201104/macbook-pro-9.png" /></kbd>
+![image](https://user-images.githubusercontent.com/9078815/185175361-a3803a88-d391-4151-bb75-c4b385f75afa.png)
+
 
 All the resources needed for these design template are included in the assets folder.
 
